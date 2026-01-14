@@ -1,0 +1,18 @@
+# Python Environment
+venv/
+__pycache__/
+.env
+
+# VS Code / Editor System Files
+.vscode/
+.antigravity/
+.history/
+
+# Media Assets (Keep repo light)
+*.png
+*.mp4
+*.pdf
+
+# Operating System Files
+Thumbs.db
+.DS_Store
